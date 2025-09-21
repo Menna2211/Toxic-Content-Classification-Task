@@ -44,18 +44,12 @@ transformer-toxic-classification/
 
 ### Installation Steps
 
-1. **Clone the repository**
-   ```bash
-   git clone <your-repo-url>
-   cd transformer-toxic-classification
-   ```
-
-2. **Install dependencies**
+1. **Install dependencies**
    ```bash
    pip install -r requirements_transformer.txt
    ```
 
-3. **Prepare your data**
+2. **Prepare your data**
    - Place your CSV file named `cellula_toxic_data.csv` in the project root
    - Ensure it has columns: `query`, `image descriptions`, `Toxic Category`
 
@@ -215,5 +209,6 @@ The pipeline automatically compares DistilBERT and ALBERT performance across mul
 - F1 score comparisons
 
 ---
+
 
 
