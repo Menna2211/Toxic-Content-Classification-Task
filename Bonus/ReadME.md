@@ -214,24 +214,6 @@ The pipeline automatically compares DistilBERT and ALBERT performance across mul
 - Confusion matrices for both models
 - F1 score comparisons
 
-
-##  Future Enhancements
-
-- [ ] Support for more Transformer models (BERT, RoBERTa, DeBERTa)
-- [ ] Hyperparameter optimization with Optuna
-- [ ] Docker containerization
-- [ ] REST API deployment
-- [ ] Real-time prediction service
-- [ ] Advanced data augmentation techniques
-- [ ] Multi-modal training (text + image features)
-- [ ] Model quantization for edge deployment
-- [ ] Federated learning support
-
-##  Acknowledgments
-
-- HuggingFace Transformers library
-- LoRA: Low-Rank Adaptation of Large Language Models
-- The open-source ML community
-
 ---
+
 
