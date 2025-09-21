@@ -31,8 +31,7 @@ transformer-toxic-classification/
 ├── evaluation_transformer.py         # Evaluation metrics and visualization
 ├── utils_transformer.py              # Utility functions and prediction
 ├── requirements.txt                  # Python dependencies
-├── README.md                         # This file
-└── .gitignore                        # Git ignore rules
+└── README.md                         # This file
 ```
 
 ##  Installation
@@ -209,6 +208,7 @@ The pipeline automatically compares DistilBERT and ALBERT performance across mul
 - F1 score comparisons
 
 ---
+
 
 
 
