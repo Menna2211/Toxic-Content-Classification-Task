@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "models_trained": [
+    "DistilBERT-LoRA",
+    "ALBERT-LoRA"
+  ],
+  "lora_r": 8,
+  "lora_alpha": 16,
+  "lora_dropout": 0.1,
+  "learning_rate": 0.0002,
+  "batch_size": 16,
+  "epochs": 10,
+  "max_length": 256,
+  "distilbert_test_accuracy": 0.97,
+  "distilbert_test_f1_macro": 0.9674669330360237,
+  "distilbert_test_f1_weighted": 0.9669310472842909,
+  "albert_test_accuracy": 0.965,
+  "albert_test_f1_macro": 0.9640879351919196,
+  "albert_test_f1_weighted": 0.9621310795242097,
+  "device": "cpu"
+}
