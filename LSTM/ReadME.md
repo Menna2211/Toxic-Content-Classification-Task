@@ -2,7 +2,7 @@
 
 A modular deep learning pipeline for classifying toxic content using Bidirectional LSTM (BiLSTM) with text preprocessing, model training, evaluation, and prediction capabilities.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 toxic-classification/
@@ -179,5 +179,6 @@ The pipeline provides comprehensive evaluation including:
 - Use GPU for faster training
 - Adjust `MAX_FEATURES` and `MAX_LENGTH` based on your dataset
 - Monitor class distribution for imbalanced data
+
 
 
